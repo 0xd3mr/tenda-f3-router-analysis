@@ -6,3 +6,10 @@ As an electrical & electronics engineer who is interested in cybersecurity, I be
 Tenda F3 Router Analysis — Part 1: Exploring Hardware, UART and Bootloader:
 
 https://medium.com/@omergnscr/tenda-f3-router-hardware-uart-and-bootloader-analysis-28e67a7e9cc7
+
+
+
+Tenda F3 Router Analysis — Part 2: Extracting Firmware from SPI Flash:
+
+https://omergnscr.medium.com/tenda-f3-router-analysis-part-2-extracting-firmware-from-spi-flash-224f010ac179
+
